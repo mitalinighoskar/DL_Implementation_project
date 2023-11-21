@@ -1,0 +1,8 @@
+Diseases,Codes,Count,Population,Rate,CI.lower,CI.upper
+acute rhinitis or the common cold,J00,618,135956,454.557,419.495,491.761
+acute pharyngitis,J02,408,399913,102.022,92.366,112.413
+acute tonsillitis,J03,63,35987637,0.175,0.135,0.224
+acute upper respiratory tract infection,J06,13,833361,1.56,0.831,2.668
+acute bronchitis,J20,120,825061,14.544,12.059,17.391
+allergic or vasomotor rhinitis,J30,13,4941613,0.263,0.14,0.45
+Chronic sinusitis,J32,499,3017248,16.538,15.119,18.055
